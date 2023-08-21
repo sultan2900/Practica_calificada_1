@@ -2,7 +2,7 @@
 #include<string>  
 
 using namespace std;
-
+// El CP marea
 int main() {
 	int numero,i=1,j,contador=0,valor;
 	cout << "Ingrese el numero n :" << endl;
